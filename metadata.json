@@ -1,0 +1,6 @@
+{
+  "name": "ساعات العمل",
+  "description": "تطبيق متكامل لتتبع ساعات وأيام العمل وإدارة الساعات الإضافية وحساب الأرباح والتقارير الشهرية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

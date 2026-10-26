@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ساعات العمل</string>
+    <string name="nav_home">سجل الأيام</string>
+    <string name="nav_finances">الإعدادات المالية</string>
+    <string name="nav_stats">الإحصاءات</string>
+    <string name="nav_reports">التقارير والتصدير</string>
+</resources>
